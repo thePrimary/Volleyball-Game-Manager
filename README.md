@@ -1,6 +1,6 @@
 # Volleyball Game Manager
 
-A full-stack web application that facilitates the organization and management of recreational volleyball games for Mercer University students. The platform allows users to register, create games, join games, and track participants.
+A full-stack web application that facilitates the organization and management of recreational volleyball games for students. The platform allows users to register, create games, join games, and track participants.
 
 ## Features
 - User registration and authentication (JWT-based).
